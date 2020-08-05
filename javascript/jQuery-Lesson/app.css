@@ -1,0 +1,33 @@
+.box1 {
+	background-color: #FF0000;
+	height: 200px;
+	width: 200px;
+	margin-bottom: 5px;
+}
+.box2 {
+	display: none;
+	background-color: #FF0000;
+	height: 200px;
+	width: 200px;
+	margin-bottom: 5px;
+}
+.box3 {
+	background-color: #FF0000;
+	height: 200px;
+	width: 200px;
+	margin-bottom: 5px;
+}
+.box4 {
+	background-color: #FF0000;
+	height: 200px;
+	width: 200px;
+	margin-bottom: 5px;
+}
+.box4-ext {
+	border: 10px solid black;
+}
+.box5 {
+	background-color: #FF0000;
+	height: 200px;
+	width: 200px;
+	margin-bottom: 5px;
